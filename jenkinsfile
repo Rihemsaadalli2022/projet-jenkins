@@ -9,7 +9,7 @@ pipeline {
          stage("test"){
            steps {
             echo ' testing the application...'
-           }hhhhhhhhhkkk11111111kkkkk.....kkoopmo
+           }hhh222211111kkkkk.....kkoopmo
          }
          stage("deploy"){
            steps {
